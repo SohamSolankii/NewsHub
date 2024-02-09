@@ -1,6 +1,6 @@
 # News-website
 
-A Dynamic Website with Node.js and EJS which gives daily news.
+A Dynamic Website with Node and Express JS which gives daily news.
 
 </path></svg></a>Installation</h2>
 <p>To run this project, install it locally using npm:</p>
