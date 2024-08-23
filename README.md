@@ -1,13 +1,9 @@
-# News-website
+# React + Vite 
 
-A Dynamic Website with Node and Express JS which gives daily news.
+### Explore the Project
 
-</path></svg></a>Installation</h2>
-<p>To run this project, install it locally and run this commands in terminal:</p>
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="$ npm install
-$ npm start
-"><pre><code>$ npm install
-$ node app.js 
-</code></pre></div>
+You can view a live version of the Refocus website clone by clicking [here](https://refocus-website-clone.vercel.app/).
 
-<p>Checkout Website <a href = "https://newshub-3qa4.onrender.com/">here</a></p>
+---
+
+This setup is ideal for developers looking for a minimal yet powerful environment to kickstart their React projects with Vite. Happy coding! 😊
